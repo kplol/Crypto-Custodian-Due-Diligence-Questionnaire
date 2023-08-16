@@ -1,5 +1,5 @@
 # Crypto-Custodian-Due-Diligence-Questionnaire
-Questions to ask crypto custodians and wallet tech providers before you buy!
+Questions to ask crypto custodians and wallet tech providers. 
 
 Choosing a custodian or wallet tech provider is an extremely important decision that should not be taken lightly. Unfortunately most companies conducting diligence do not know the right questions to ask during the process. Here are the most important questions to ask when choosing a custodian or wallet tech provider. 
 

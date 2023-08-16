@@ -7,19 +7,19 @@ Choosing a custodian or wallet tech provider is an extremely important decision 
 2. Please provide the following Company information: 
   - Current financial statements/audits
   - Board of Directors 
-  - Any other financial information pertinent to the overall financial health status of the company "
+  - Any other financial information pertinent to the overall financial health status of the company
 3. Please provide the name(s), status(es), and structure (s) of the regulator(s) that the custodian operates under (i.e. NYDFS, FINRA Broker Dealer, BitLicense, state money transmitter licenses, monetary authorities, etc.)
 4. Please provide an overview of each custody product offering and each corresponding legal entity for custodial and non-custodial offerings.
-5. Please provide an overview of insurance coverage for each legal entity associated with the custody product offerings. Please include any details regarding how assurances are made (i.e. balance sheet guarantees, etc.) 
+5. Please provide an overview of insurance coverage for each legal entity associated with the custody product offerings. Please include any details regarding how assurances are made (i.e. balance sheet guarantees, etc.). 
 6. Please disclose any conflicts of interest your company has identified (including with directors or officers of your company) with any third parties materially involved with the safe keeping of digital assets.
-7. Please provide bios for each C-level member of the company 
+7. Please provide bios for each C-level member of the company.
 8. Please provide a list of the countries/regions/geographies the business operates in. 
 9. Does the company have a Cybersecurity Program and Policy? If yes, please provide an overview, details, and copies of the policy. 
 10. Please provide any audits or compliance documentation related to SOC1, SOC2, NIST, or ISO 27000. If audits have been completed please provide the executive summary from the final attestation report. 
-11. In the last 7 years has your company suffered a data breach, hack, or similar? If yes, please provide technical details (i.e. incident response report), description of enforcement actions taken by any government entities, and details of customer impact and outcomes (i.e. loss of assets, data, etc.) 
+11. In the last 7 years has your company suffered a data breach, hack, or similar? If yes, please provide technical details (i.e. incident response report), description of enforcement actions taken by any government entities, and details of customer impact and outcomes (i.e. loss of assets, data, etc.).
 12. Has a third party penetration test been conducted specifically addressing the technologies, people, and processes associated with the safeguarding of digital assets including cyber, technical, and physical risks in the last 12 months? If yes, please provide the executive summary of the final report. 
 13. Does the company have a disaster recovery policy and business continuity plan? If yes, please provide an overview including details that limit insider threat, key man risk, and internal collusion during the execution of the plan,including during the failover of any systems critical to the safe keeping of digital assets. 
-14. Please include DR/BCP information related to the client's ability to access funds, websites, etc. in the event there is an interruption to services. "
+14. Please include DR/BCP information related to the client's ability to access funds, websites, etc. in the event there is an interruption to services. 
 15. Does the company have an Acceptable Use Policy that all employees are required to acknowledge and sign?
 16. Please describe the organization's security and awareness training for staff and contractors. 
 17. Please describe how access is managed internally for employees who have access to the custody products across development, staging, and production environments. 
@@ -39,7 +39,7 @@ Choosing a custodian or wallet tech provider is an extremely important decision 
   - Geographic location of customer data 
   - Employee access of customer data
   - Data encryption protocols
-  - Any third party audit/pen testing reports done on external facing portals/APIs "
+  - Any third party audit/pen testing reports done on external facing portals/APIs
 28. Please describe if the application has the ability to enable custom and granular permissions and roles to be created. Describe any roles and permissions available. 
 29. Please provide any details on physical infrastructure and how that is accessed by employees and/or customers, as well as the geographical locations of physical infrastructure. Please provide and describe any physical controls in place to protect and secure infrastructure, systems, customer data, and crypto assets. 
 30. Describe any controls in place to limit insiders threat, key man risk, and internal collusion as it pertains to digital assets. 
@@ -68,7 +68,7 @@ Choosing a custodian or wallet tech provider is an extremely important decision 
 53. Please describe how backups for production systems are operated and managed within the organization and additional details on access, authentication, authorization, encryption, etc. 
 54. Are personnel required to sign confidentiality agreements to protect client information as a condition of employment?
 55. Does the organization seek a right to use or own customer derived data for its own purposes? Please describe. 
-56. Please describe the organization's vulnerability management processes and procedures including the teams responsible (Network, application, etc.)
+56. Please describe the organization's vulnerability management processes and procedures including the teams responsible (Network, application, etc.).
 57. Please describe how the organization evaluates and updates for patches for infrastructure and critical systems. How does the criticality of the patch affect deployment guidelines? 
 58. What systems are in place that mitigate classes of web application vulnerabilities (WAF, proxies, etc.)?
 59. Are all production systems logged for performance and security events? Please describe. 
